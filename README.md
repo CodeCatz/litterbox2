@@ -4,4 +4,4 @@ Litterbox - season 2
 - Clone this repository
 - Create a folder with your name in it
 - Add readme.md into your folder
-- commit and push to THIS repository
+- Commit and push to THIS repository
